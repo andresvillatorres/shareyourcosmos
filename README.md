@@ -22,4 +22,4 @@ HAUSAMMEHR assures that the use of the pictures is not used for purposes of ille
 ![](images/wf_1.png)
 ![](images/wf_2.png)
 ![](images/wf_3.png)
-![](animations/shareyourcosmos_web_platform.gif)
+![](animations/shareyourcosmos_web_platform_long.gif)
